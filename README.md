@@ -25,10 +25,10 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
     <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     </a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <a href="https://expo.dev" target="_blank">
         <img src="https://img.shields.io/badge/Expo-323330?style=for-the-badge&logo=expo&logoColor=blue" alt="Expo">
     </a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <a href="https://reactnative.dev" target="_blank">
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
     </a>
     <a href="https://code.visualstudio.com" target="_blank">
