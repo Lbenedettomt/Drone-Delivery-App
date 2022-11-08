@@ -7,6 +7,7 @@
 ### Tópicos :large_blue_diamond:
 **:small_blue_diamond: [Global Solution :bookmark_tabs:](#global-solution-bookmark_tabs)**  
 **:small_blue_diamond: [Sobre :book:](#sobre-book)**  
+**:small_blue_diamond: [Instalação :book:](#instalação-book)**  
 **:small_blue_diamond: [Progresso App :arrow_up:](#progresso-app-arrow_up)**  
 **:small_blue_diamond: [Integrantes do grupo 3ECA :octocat:](#integrantes-do-grupo-3eca-octocat)**
 
@@ -34,6 +35,11 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
     <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
     </a>
+</p>
+
+## Instalação :book:
+<p align="justify">
+    Para instalar, clone ou baixe o repositório, abra o diretório no CMD ou PowerShell e digite 'npm install' para instalar todas as dependências. Para rodar, digite 'expo sart' e na caixa de diálogo que aparecer aperte 'w' para abrir o app em uma instância web.
 </p>
 
 ## Progresso App :arrow_up:
