@@ -39,7 +39,7 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
 
 ## Instalação :book:
 <p align="justify">
-    Para instalar, clone ou baixe o repositório, abra o diretório no CMD ou PowerShell e digite 'npm install' para instalar todas as dependências. Para rodar, digite 'expo sart' e na caixa de diálogo que aparecer aperte 'w' para abrir o app em uma instância web.
+    Para instalar, clone ou baixe o repositório, abra o diretório no CMD ou PowerShell e digite 'npm install' para instalar todas as dependências. Para rodar, digite 'expo start' e na caixa de diálogo que aparecer aperte 'w' para abrir o app em uma instância web.
 </p>
 
 ## Progresso App :arrow_up:
